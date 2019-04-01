@@ -5,3 +5,4 @@
 
 For a preview click: <a href="" title="Click to see the animation" target="_blank" >LINK</a>
 
+<a href=""><img src="https://i.imgur.com/WYMTuUI.png" title="Click to see the animation" /></a>
